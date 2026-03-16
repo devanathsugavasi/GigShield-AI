@@ -574,7 +574,7 @@ audit_logs     (id, entity_type, entity_id, action, actor,
 
 | Role | Responsibility |
 |---|---|
-| **Team Lead / Product (Yadhisresht) ** | Strategy, persona research, documentation, video  |
+| **Team Lead / Product (Yadhisresht)** | Strategy, persona research, documentation, video  |
 | **Backend Engineer (Nabanshu)** | FastAPI, DB schema, trigger monitoring engine, API integrations |
 | **ML Engineer(Devanath)** | XGBoost premium model, Isolation Forest fraud detection, LSTM forecasting  |
 | **Mobile Engineer(Cyan Benny)** | Flutter worker app — onboarding, dashboard, claim notifications |

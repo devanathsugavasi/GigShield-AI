@@ -40,16 +40,16 @@ We insure **income loss only** — not vehicles, not health, not accidents.
 
 ### Real-World Scenarios
 
-**Scenario 1 — The Bengaluru Monsoon Shutdown (Environmental)**
+**Scenario 1 — Heavy Rain Trigger (Environmental)**
 > Ravi is a Blinkit partner operating out of a dark store in Koramangala. A Red Alert rainfall warning is issued at 5 PM. Blinkit suspends all orders in his micro-zone. He sits idle for 5 hours during peak dinner time. That's ₹550 gone — no compensation from the platform. With GigShield Standard (₹99/week), our system detects the IMD rainfall alert, cross-validates his GPS against the affected zone, confirms he was online at trigger time, and automatically credits ₹450 to his UPI ID by 11 PM. No form. No call.
 
 **Scenario 2 — The Delhi AQI Emergency (Environmental)**
-> Priya delivers for Zepto in West Delhi. In November, AQI in her zone crosses 400 (Severe) by 10 AM and stays there for 6 hours. The platform advises partners to avoid outdoor activity. Priya loses her most profitable morning shift. With GigShield Premium (₹149/week), her coverage activates automatically once the AQI breach is validated via CPCB data. She receives ₹600 — her estimated 6-hour income — directly to her account before the day ends.
+> A local protest in Koramangala triggers a sudden Section 144. Ravi's pickup zone is inaccessible for 6 hours. GigShield's social disruption monitor detects the curfew via government notification feeds, validates Ravi's last known GPS location was inside the affected zone, and processes a payout within 2 hours.
 
-**Scenario 3 — The Mumbai Flash Curfew (Social Disruption)**
+**Scenario 3 — Sudden Curfew / Section 144 (Social Disruption)**
 > Suresh operates out of a Swiggy Instamart dark store in Dharavi. A sudden Section 144 is issued in his delivery zone at 8 AM with 2 hours' notice. The platform halts all orders. GigShield's social disruption monitor detects the government notification, validates Suresh's zone overlap with the curfew perimeter, and initiates a half-day payout of ₹350. By noon, his wallet is topped up — before his next shift even begins.
 
-**Scenario 4 — The Zepto App Outage (Operational)**
+**Scenario 4 — Platform App Outage(Operational)**
 > Anjali is logged into the Zepto partner app and marked available during the 7–10 PM peak window — the most lucrative 3 hours of her day. The Zepto partner app goes down for 2.5 hours. She receives zero orders despite being ready. GigShield's platform uptime monitor detects the API health failure, confirms Anjali was active and in-zone, and compensates her ₹280 for verified lost peak hours — a trigger no other insurance product on the market covers.
 
 ---
@@ -74,7 +74,7 @@ We insure **income loss only** — not vehicles, not health, not accidents.
     → Zone disruption history score
     → Dark store cluster risk tier
     → Worker tenure + activity hours
-    → Season / city adjustment
+    → Season/city adjustment
     → Recommended plan surfaced
         │
         ▼

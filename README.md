@@ -590,5 +590,5 @@ audit_logs     (id, entity_type, entity_id, action, actor,
 
 ---
 
-*Built with ❤️ for India's invisible workforce — the delivery partners keeping our cities running at 10-minute speed.*
-*Guidewire DEVTrails 2026 | Team GigShield*
+*Built with  for India's invisible workforce — the delivery partners keeping our cities running at 10-minute speed.*
+*Guidewire DEVTrails 2026 | Team NEXVYD*

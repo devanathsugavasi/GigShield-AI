@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛡️ GigShield — AI-Powered Parametric Income Protection for Q-Commerce Delivery Partners
 
 > **Guidewire DEVTrails 2026 | University Hackathon**  
@@ -53,3 +54,6 @@ For problem statement, persona, workflow, premium model, parametric triggers, AI
 
 *Built for India’s Q-Commerce delivery partners.*  
 *Guidewire DEVTrails 2026 | Team GigShield*
+=======
+# GigShield-AI
+>>>>>>> 2f312745cf542e572d79c3ab1dada9dee67593e9

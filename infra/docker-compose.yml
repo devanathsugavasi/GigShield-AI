@@ -1,0 +1,30 @@
+# GigShield full local dev stack
+# Usage: docker-compose up -d
+version: '3.8'
+services:
+  backend:
+    build: ../backend
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=postgresql://gigshield:gigshield@db:5432/gigshield
+      - REDIS_URL=redis://redis:6379/0
+    depends_on:
+      - db
+      - redis
+  db:
+    image: postgres:15-alpine
+    environment:
+      POSTGRES_USER: gigshield
+      POSTGRES_PASSWORD: gigshield
+      POSTGRES_DB: gigshield
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+volumes:
+  pgdata: {}

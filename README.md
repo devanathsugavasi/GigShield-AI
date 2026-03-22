@@ -584,7 +584,7 @@ audit_logs     (id, entity_type, entity_id, action, actor,
 
 ## 🔗 Links
 
-- ** Gigshield Phase PPT:** *(https://docs.google.com/presentation/d/1BcB34nS21M17Py0DqYAoMVA9mN_5ekmz/edit?usp=drive_link&ouid=104987464284547579679&rtpof=true&sd=true)*
+- **Gigshield Phase PPT:** *(https://docs.google.com/presentation/d/1BcB34nS21M17Py0DqYAoMVA9mN_5ekmz/edit?usp=drive_link&ouid=104987464284547579679&rtpof=true&sd=true)*
 - **Demo Video (Phase 1):** *(https://drive.google.com/file/d/1zE7-Ft2o195grgHQ4b9fPmHqbW-kD4PY/view?usp=sharing)*
 
 

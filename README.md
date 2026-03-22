@@ -585,7 +585,7 @@ audit_logs     (id, entity_type, entity_id, action, actor,
 ## 🔗 Links
 
 - **GitHub Repository:** *(this repo)*
-- **Demo Video (Phase 1):** *[Link to be added]*
+- **Demo Video (Phase 1):** *(https://drive.google.com/file/d/1zE7-Ft2o195grgHQ4b9fPmHqbW-kD4PY/view?usp=sharing)*
 
 
 ---
